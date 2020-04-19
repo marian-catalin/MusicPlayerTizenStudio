@@ -1,0 +1,249 @@
+
+body {
+    margin: 0px auto;
+    background-color:#222;
+}
+
+.container {
+	
+	position: absolute;
+	top: 0px;
+	height: 1080px;
+    width: 1920px;
+    background-color: #4da6ff;
+}
+
+
+
+.playlist-class {
+	
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 960px;
+	height: 696px;
+	background-color: #ffffff;
+	border-bottom: solid;
+}
+
+
+.btn {
+	
+	position: absolute;
+	bottom: 0px;
+	height: 384px;
+	width: 384px;
+}
+
+.sel_item {
+	
+	position: absolute;
+	bottom: 0px;
+	height: 384px;
+	width: 384px;
+	left: 0px;
+	background-color: #33cc33;
+
+}
+
+
+#prev{
+	background-image: url("../image/prev.png");
+	left: 0px;
+	
+}
+
+#next{
+	background-image: url("../image/next.png");
+	left: 1536px;
+	
+}
+
+#play{
+	background-image: url("../image/play2.png");
+	left: 1152px;
+	
+}
+
+#stop{
+	background-image: url("../image/stop.png");
+	left: 384px;
+	
+}
+
+#pause{
+	background-image: url("../image/pause.png");
+	left: 768px;
+}
+
+
+
+
+
+.playlist-text{
+	position: absolute;
+	top: 30px;
+	left: 50px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #000000;	
+}
+
+
+.playlist-1 {
+	position: absolute;
+	top: 110px;
+	left: 50px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #000000;	
+}
+
+
+.playlist-2 {
+	position: absolute;
+	top: 190px;
+	left: 50px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #000000;	
+}
+
+
+.playlist-3 {
+	position: absolute;
+	top: 270px;
+	left: 50px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #000000;	
+}
+
+.playlist-4 {
+	position: absolute;
+	top: 350px;
+	left: 50px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #000000;	
+	
+}
+
+.playlist-5 {
+	position: absolute;
+	top: 430px;
+	left: 50px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #000000;	
+}
+
+
+.sel_music {
+	
+	position: absolute;
+	background-image: url("../image/sel_music.png");
+	left: 0px;
+	top: 110px;
+	height: 50px;
+	width: 50px;
+}
+
+
+.playing {
+	
+	position: absolute;
+	background-image: url("../image/music.png");
+	left: 650px;
+	top: 110px;
+	height: 50px;
+	width: 50px;
+}
+
+.paused {
+	
+	position: absolute;
+	background-image: url("../image/pause - Copy.png");
+	left: 700px;
+	top: 110px;
+	height: 50px;
+	width: 50px;
+}
+
+
+
+
+
+
+.proj {
+	
+	position: absolute;
+	left: 960px;
+	top: 0px;
+	height: 696px;
+	width: 960px;
+	border-bottom: solid;
+	background-color: #000000;
+}
+
+.title-text{
+	position: absolute;
+	top: 30px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #ffffff;	
+	left: 300px;
+}
+
+.apl-text{
+	position: absolute;
+	top: 110px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #ffffff;	
+	left: 275px;
+}
+
+.musicplayer-text{
+	position: absolute;
+	top: 190px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #ffffff;	
+	left: 325px;
+}
+
+
+.student-text{
+	position: absolute;
+	top: 430px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #ffffff;	
+	right: 0px;
+}
+
+.group-text{
+	position: absolute;
+	top: 510px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #ffffff;	
+	right: 0px;
+}
+
+.etti-text{
+	position: absolute;
+	bottom: 30px;
+	font-weight:bold;
+	font-size: 50px;
+	color: #ffffff;	
+	left: 360px;
+}
+
+
+
+
+
+
+
